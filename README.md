@@ -15,6 +15,9 @@ A visual mini-app that uses AI (DFS algorithm) to solve mazes and display the pa
 - Uses Depth First Search (DFS)
 - Visualizes the solution path step-by-step
 
+## Live Demo
+![AI Solver](/demo.gif)
+
 ## 🚀 How to Run Locally
 - Install Python and dependencies
 ```bash
